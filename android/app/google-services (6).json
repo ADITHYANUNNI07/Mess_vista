@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "370566585092",
+    "project_id": "shalommess",
+    "storage_bucket": "shalommess.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370566585092:android:eaf42f230992c30cab8e51",
+        "android_client_info": {
+          "package_name": "com.example.shalom_mess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370566585092-17e4a0bavfut1vqv9b5hi09mbpm1rhb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shalom_mess",
+            "certificate_hash": "53c2f660139188e89b454b07213b4999c61e9251"
+          }
+        },
+        {
+          "client_id": "370566585092-56s7e10cv5qh8573qkabenocve5b7sdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrzI0TFAggxk9WmrAUFiNaRLHTHHF-NMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370566585092-56s7e10cv5qh8573qkabenocve5b7sdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

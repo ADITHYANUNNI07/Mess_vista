@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370566585092",
+    "project_id": "shalommess",
+    "storage_bucket": "shalommess.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370566585092:android:eaf42f230992c30cab8e51",
+        "android_client_info": {
+          "package_name": "com.example.shalom_mess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrzI0TFAggxk9WmrAUFiNaRLHTHHF-NMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
