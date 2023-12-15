@@ -8,6 +8,7 @@ import 'package:google_sign_in/google_sign_in.dart';
 import 'package:shalom_mess/db/firestore_database.dart';
 import 'package:shalom_mess/helper/sharedpreference.dart';
 import 'package:shalom_mess/model/usermodel.dart';
+import 'package:shalom_mess/screen/bottumnavigator.dart';
 import 'package:shalom_mess/screen/dashboard.dart';
 import 'package:shalom_mess/screen/login_signup.dart';
 import 'package:shalom_mess/screen/loginwithphone.dart';
