@@ -3,8 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:shalom_mess/helper/sharedpreference.dart';
 import 'package:shalom_mess/screen/bottumnavigator.dart';
-import 'package:shalom_mess/screen/dashboard.dart';
-import 'package:shalom_mess/screen/home.dart';
 import 'package:shalom_mess/screen/login_signup.dart';
 
 void main() async {

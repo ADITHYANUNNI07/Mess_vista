@@ -32,7 +32,7 @@ class AuthServiceclass {
         if (snapshot != null) {
           await SharedpreferenceClass.saveUserLoggedInStatus(true);
           Navigator.of(context).pushReplacement(MaterialPageRoute(
-            builder: (context) => const DashboardScrn(),
+            builder: (context) => const BottomNavigatorScreen(),
           ));
         } else {
           newshowSnackbar(context, 'User data is not found',
@@ -95,7 +95,7 @@ class AuthServiceclass {
           } else {
             await SharedpreferenceClass.saveUserLoggedInStatus(true);
             Navigator.of(context).pushReplacement(MaterialPageRoute(
-              builder: (context) => DashboardScrn(),
+              builder: (context) => BottomNavigatorScreen(),
             ));
             isLoadingvaluenotifier.value = false;
           }
@@ -155,7 +155,7 @@ class AuthServiceclass {
           isLoadingvaluenotifier.value = false;
           await SharedpreferenceClass.saveUserLoggedInStatus(true);
           Navigator.of(context).pushReplacement(MaterialPageRoute(
-            builder: (context) => DashboardScrn(),
+            builder: (context) => BottomNavigatorScreen(),
           ));
         }
       }

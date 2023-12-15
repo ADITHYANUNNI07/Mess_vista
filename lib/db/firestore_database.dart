@@ -16,7 +16,7 @@ class DataBaseClass {
     usercollection.doc(uid).set({'email': email, 'uid': uid});
     await SharedpreferenceClass.saveUserLoggedInStatus(true);
     Navigator.of(context).pushReplacement(MaterialPageRoute(
-      builder: (context) => const DashboardScrn(),
+      builder: (context) => const BottomNavigatorScreen(),
     ));
   }
 

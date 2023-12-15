@@ -1,9 +1,6 @@
-import 'dart:io';
-
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:image_picker/image_picker.dart';
 import 'package:shalom_mess/screen/home/add_group.dart';
 import 'package:shalom_mess/screen/home/add_user.dart';
 import 'package:shalom_mess/widget/widget.dart';
