@@ -26,7 +26,7 @@ class _BottomNavigatorScreenState extends State<BottomNavigatorScreen> {
       const HomeScrn(),
       const PaymentScrn(),
       const NotificationScreen(),
-      const ProfileScreen()
+      const ProfileScrn()
     ];
   }
 
